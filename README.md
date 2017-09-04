@@ -1,2 +1,2 @@
 # Kaggle
-Exemples of Kaggle non training competitions
+Exemples of Kaggle training competitions
